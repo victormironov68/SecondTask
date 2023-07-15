@@ -1,3 +1,4 @@
+# Репозитоий создается для решения второй задачи на платформе Stepik, по курсу "Автоматизация тестирования с помощью Selenium и Python"
 .idea/
 
 # Created by https://www.gitignore.io/api/macos,linux,django,python,pycharm
